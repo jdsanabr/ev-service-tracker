@@ -7,7 +7,7 @@ This directory contains the React frontend for the EV Service Tracker app.
 - Tailwind CSS
 - Axios for API calls
 
-## Development
+## Development (arduino)
 cd frontend
 npm install
 npm run dev
