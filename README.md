@@ -37,4 +37,27 @@ A full-stack web application that allows electric vehicle owners and service cen
 ---
 
 ## 📦 Project Structure
+ev-service-tracker/
+├── backend/ # Node.js + Express API
+├── frontend/ # React client app
+├── .gitignore
+├── README.md # Top-level README
+
+
+
+Each folder includes its own README for specific setup instructions.
+
+---
+
+## ⚙️ Getting Started
+
+### Prerequisites
+- [Node.js](https://nodejs.org/) (v18+)
+- [PostgreSQL](https://www.postgresql.org/)
+- Git
+
+### Clone the repository
+```bash
+git clone https://github.com/<your-username>/ev-service-tracker.git
+cd ev-service-tracker
 
