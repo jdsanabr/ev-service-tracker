@@ -60,4 +60,16 @@ Each folder includes its own README for specific setup instructions.
 ```bash
 git clone https://github.com/<your-username>/ev-service-tracker.git
 cd ev-service-tracker
+```
+
+### 🌐 Frontend Setup
+cd frontend
+npm install
+npm run dev
+
+### ⚙️ Backend Setup
+cd backend
+npm install
+npx prisma migrate dev
+npm run dev
 
